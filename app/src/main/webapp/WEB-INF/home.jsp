@@ -7,7 +7,7 @@
     <title>ola spring</title>
 </head>
 <body>
-    <h1>Ola spring</h1>
+    <h1>${mensagem}<h1>
     
 </body>
 </html>
